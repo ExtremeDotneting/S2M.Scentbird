@@ -1,8 +1,8 @@
 #  SCENTBIRD - Try new fragrances every month
 <br />It one if my freelance apps.
 <br />
+![alt tag](adimage.png)
 
-![alt tag](googleplay/adimage.png)
 <br />
 <br />
 <br />Contacts:
