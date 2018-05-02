@@ -1,9 +1,7 @@
 #  SCENTBIRD - Try new fragrances every month
 <br />It one if my freelance apps.
 <br />
-![alt tag](adimage.jpg)
-
-<br />
+![alt tag](screenshot.jpg)
 <br />
 <br />Contacts:
 <br />&nbsp;&nbsp;&nbsp;&nbsp;Vk - https://vk.com/yura_mysko
